@@ -29,7 +29,7 @@ A fully unit-tested package for easily integrating the [Facebook SDK v5](https:/
 - [Working With Multiple Apps](#working-with-multiple-apps)
 - [Error Handling](#error-handling)
 - [Troubleshooting](#troubleshooting)
-- [Testing](#testing)
+- [Testing](#testing) 
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
